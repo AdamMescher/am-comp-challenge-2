@@ -57,6 +57,10 @@ li:hover {
   color: white;
 }
 
+a {
+  color: #2B2B2B;
+}
+
 .bottom-container {
   margin-left: 20px;
   display: flex;
